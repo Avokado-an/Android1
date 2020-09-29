@@ -11,3 +11,4 @@ settings.gradle
 .DS_Store
 .externalNativeBuild
 .cxx
+.bat
