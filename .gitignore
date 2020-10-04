@@ -1,11 +1,6 @@
 *.iml
-settings.gradle
-*gradlew
-/.gradle
 /captures
 /.idea
-*.properties
 .DS_Store
 .externalNativeBuild
 .cxx
-.bat
