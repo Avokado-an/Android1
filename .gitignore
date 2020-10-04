@@ -4,7 +4,6 @@ settings.gradle
 /.gradle
 /captures
 /.idea
-/gradle
 *.properties
 .DS_Store
 .externalNativeBuild
